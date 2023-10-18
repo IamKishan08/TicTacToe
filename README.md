@@ -1,2 +1,2 @@
-# python
- example programs
+# Tic Tac Toe Python project using tkinter library
+
